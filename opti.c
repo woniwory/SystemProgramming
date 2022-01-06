@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-
+/* 미완료 코드입니다 */
 
 int getsize(int *arr){
 
@@ -138,6 +138,7 @@ int main(){
 
     return 0;
 }
+
 
 
 
